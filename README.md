@@ -7,8 +7,8 @@
 Official implementation of the paper:
 
 > **“Dose-Aware Cold Diffusion with Physics Consistency for Generalizable Low-Dose CT Reconstruction”**  
-> *Md Imam Ahasan, Guangchao Yang, A. F. M. Abdun Noor, Mohammad Azam Khan, S. M. Hasan Mahmud, Kah Ong Michael Goh*  
-> Submitted to **Results in Engineering**, January 2026.
+> *Md Imam Ahasan, Guangchao Yang, A. F. M. Abdun Noor, S. M. Hasan Mahmud*  
+> Submitted to **International Joint Conference on Neural Networks**, January 2026.
 
 ---
 
